@@ -1,0 +1,1 @@
+Spring security for version 3 and onwards was changed. Instead of WebSecurityConfigurerAdapter we must use SecurityFilterChain. This is a template for future implementations.
